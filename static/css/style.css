@@ -1,0 +1,26 @@
+.a{
+    padding-top: 25%;
+    padding-left: 35%;
+    
+}
+.b{
+    padding-left:35%; 
+}
+.c{
+    background-image: url(./x.jpg);
+}
+.d{
+    align-self: center;
+    padding-top: 5%;
+    padding-left: 35%;
+}
+.e{
+    color:blue;
+}
+.f{
+    height: 400px;
+}
+.hy{
+    border: black;
+    border-block-start: 
+}
