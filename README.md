@@ -1,5 +1,9 @@
 # AI-Doctor
 
+## Demo Link
+
+https://ai-health-care.herokuapp.com/
+
 ### Clone this repository
 
 Type the following commands in your terminal:
