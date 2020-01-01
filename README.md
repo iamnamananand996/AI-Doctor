@@ -2,7 +2,7 @@
 
 ## Demo Link
 
-https://ai-health-care.herokuapp.com/
+https://ai-health.herokuapp.com/
 
 ### Clone this repository
 
